@@ -8,3 +8,5 @@ $$ x, y, y+1$$
 To see this just note that $y= \frac{x^2-1}2$.
 
 2. Next file I uploaded explored random project matricies and the fact that on average, they will preserve the length of a higher dimensional vector.  I found this result quite shocking when I read about it.  My baby Monte Carlo simulation clearly holds that it is true.  This result is related to the Johnson-Lindenstrauss Lemma.
+
+3. I learned some dynamical programming so I applied it to A. Wells favorite example in American sports, the seven game series.  You can compute the probability of winning the series based on your advantage of winning each game.
